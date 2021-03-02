@@ -1,0 +1,5 @@
+my_packages:
+  -vim
+  -rsync
+  -telnet
+  -sshd
